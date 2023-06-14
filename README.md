@@ -1,4 +1,4 @@
 # QR code web page design
 
 This is a very basic project which was a challenge by FrontendMentor.io.
-belal-bari.github.io/qr-code/
+link - https://belal-bari.github.io/qr-code/
